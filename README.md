@@ -27,7 +27,7 @@ I created new variables and categories for age, products, and education level. I
 
 ## Analysis and Visualizations
 
-
+[Overview] (Images/Overview.png) 
 
 ### Answers to Questions
 1. **States with the Highest Percentage of Daily Smokers**: North-Eastern states, including Meghalaya, Tripura, Mizoram, Arunachal Pradesh, Sikkim, and Assam, rank in the Top 10.
