@@ -27,7 +27,10 @@ I created new variables and categories for age, products, and education level. I
 
 ## Analysis and Visualizations
 
-[Overview]([Images/Overview.png](https://github.com/manasviwho/Tobacco-Analysis-in-India/blob/main/Images/Overview.png)) 
+![Overview]([Images/Overview.png](https://github.com/manasviwho/Tobacco-Analysis-in-India/blob/main/Images/Overview.png)) 
+![Demographic Analysis](https://github.com/manasviwho/Tobacco-Analysis-in-India/blob/main/Images/Demographic%20Analysis.png)
+![State-wise Analysis](https://github.com/manasviwho/Tobacco-Analysis-in-India/blob/main/Images/State-wise%20Analysis.png)
+![Media Influence and Quitting Methods](https://github.com/manasviwho/Tobacco-Analysis-in-India/blob/main/Images/Media%20Influence%20and%20Quitting%20Methods.png)
 
 ### Answers to Questions
 1. **States with the Highest Percentage of Daily Smokers**: North-Eastern states, including Meghalaya, Tripura, Mizoram, Arunachal Pradesh, Sikkim, and Assam, rank in the Top 10.
